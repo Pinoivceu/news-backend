@@ -301,6 +301,6 @@ Authorization: Bearer your-access-token
 ---
 
 ## Author
-- **Project Maintainer:** Your Name
+- **Project Maintainer:** Wildan Aridh Takhfif
 - **Tech Stack:** Laravel, Sanctum for Authentication
 
